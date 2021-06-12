@@ -1,0 +1,11 @@
+# macOS files
+.DS_Store
+
+# Intellij IDEA folder/files
+.idea/
+*.iml
+
+# Java output
+out/
+
+
